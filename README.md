@@ -62,9 +62,9 @@ More innovative projects coming soon! Stay tuned for announcements and updates.
 
 ## 📊 GitHub Overview
 
-![HQhma GitHub Stats](https://github-readme-stats.vercel.app/api?username=HQhma&show_icons=true&theme=dark&hide=contribs,prs)
+![HQhma GitHub Stats](https://github-readme-stats.vercel.app/api?username=HQhma&show_icons=true&theme=dark&hide=contribs,prs&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HQhma&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HQhma&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
