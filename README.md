@@ -27,6 +27,9 @@ We specialize in building robust, scalable Android applications with modern arch
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?logo=ktor&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?logo=mongodb&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-1d63ed?logo=docker&logoColor=white&color=1d63ed&style=flat-square)
+
+
 
 ### Frontend & Web
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
