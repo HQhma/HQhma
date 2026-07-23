@@ -1,6 +1,11 @@
 # 👋 Welcome to HQhma Team
 
 We're a dedicated team focused on **developing high-quality mobile applications** that solve real-world problems. Our mission is to **launch production-ready mobile apps** that deliver exceptional user experiences.
+<div align="start">
+<a href="https://hqhma.site">
+  <img src="https://img.shields.io/badge/HQhma%20Team-Official%20Website-0D8ABC?logo=googlechrome&logoColor=white" width="400">
+</a>
+</div>
 
 ---
 
@@ -65,7 +70,7 @@ More innovative projects coming soon! Stay tuned for announcements and updates.
 We'd love to hear from you! Whether it's collaboration opportunities, feedback, or just saying hello:
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:hqhma671@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4B8BBE?logo=google-chrome&logoColor=white&style=flat-square)](https://rule34.hqhma.site)
+[![Website](https://img.shields.io/badge/Website-4B8BBE?logo=google-chrome&logoColor=white&style=flat-square)](https://hqhma.site)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/HQhma)
 
 ---
